@@ -10,8 +10,8 @@ import java.util.Arrays;
 
 public class HighestNumber {
 	public static void main(String[] arg){
-		int t=new HighestNumber().gethighestnumber();
-		System.out.println("HighestNumber : "+t);
+		int number=new HighestNumber().gethighestnumber();
+		System.out.println("HighestNumber : "+number);
 	}
 	public int gethighestnumber() {
 		int temp=0,x=5;
