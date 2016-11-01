@@ -23,7 +23,6 @@ public class HighestNumber {
 				return temp;
 			} else {
 				temp= -1;
-				//return 0;
 			}
 		}
 		System.out.println(temp);
