@@ -15,10 +15,10 @@ public class HighestNumber {
 	}
 	public int gethighestnumber() {
 		int temp=0,x=5;
-		int a[] = { 2,3,30, 40, 50, 60, 20 };
-		Arrays.sort(a);
-		for (int i = 0; i < a.length;i++) {
-			if (x < a[i]) {
+		int array[] = { 2,3,30, 40, 50, 60, 20 };
+		Arrays.sort(array);
+		for (int i = 0; i < array.length;i++) {
+			if (x < array[i]) {
 				temp = i;
 				return temp;
 			} else {
