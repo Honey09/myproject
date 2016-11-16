@@ -1,7 +1,5 @@
 import java.util.Arrays;
 
-
-
 // 2,40,30,50,60,70
 
 //x = 5
