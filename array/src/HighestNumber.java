@@ -6,7 +6,7 @@ import java.util.Arrays;
 
 //x = 5
 //Find the next highest number after x and return the index 
-// if we dont have any elements with the value which is greater than x  then return -1
+// if we don't have any elements with the value which is greater than x  then return -1
 
 public class HighestNumber {
 	public static void main(String[] arg){
